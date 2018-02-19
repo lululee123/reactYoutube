@@ -15,7 +15,6 @@ const VideoDetail = (props) => {
       </div>
       <div className="details">
         <div>{video.snippet.title}</div>
-        <div>{video.snippet.description}</div>
       </div>
     </div>
   );

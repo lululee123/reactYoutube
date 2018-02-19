@@ -1,3 +1,7 @@
+.body {
+  background-color: rgba(#eeeeee, 0.8);
+}
+
 .search-bar {
   margin: 10px;
 }
@@ -33,4 +37,12 @@ input{
 
 .buttom {
   width: 50px;
+}
+
+.back {
+  margin: 10px;
+}
+
+.blank {
+  margin-top: 30px;
 }
