@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+GO > https://lululee123.github.io/reactYoutube/
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+1. 以React.js框架編寫
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+2.Youtube API 串接
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
-> npm install
-> npm start
-```
+
+3. 搜尋頻道"澄清湖大閘蟹"會有小驚喜呦
