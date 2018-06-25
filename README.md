@@ -1,7 +1,7 @@
 GO > https://lululee123.github.io/reactYoutube/
 
 
-1. 以React.js框架編寫
+1.以React.js框架編寫
 
 
 
@@ -9,4 +9,4 @@ GO > https://lululee123.github.io/reactYoutube/
 
 
 
-3. 搜尋頻道"澄清湖大閘蟹"會有小驚喜呦
+3.搜尋頻道"澄清湖大閘蟹"會有小驚喜呦
